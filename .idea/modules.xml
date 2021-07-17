@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/doto-kotlin.iml" filepath="$PROJECT_DIR$/.idea/doto-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/todo-kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/todo-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/todo-kotlin.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/todo-kotlin.app.iml" />
     </modules>
   </component>
 </project>
